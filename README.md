@@ -1,0 +1,2 @@
+# awesome-readinglist
+Weekly reports.
