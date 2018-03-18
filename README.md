@@ -16,6 +16,11 @@ Reading Scene Text in Deep Convolutional Sequences 
 
 Recursive Recurrent Nets with Attention Modeling for OCR in the Wild 
 
+[zpy]Learning to write stylized Chinese characters by Reading a hand of examples. [arXiv](https://arxiv.org/abs/1712.06424)
+
+[wcl]Recognition of Printed Mathematical Expressions Using Two-dimensional Stochastic Context-Free Grammars
+
+[wcl]On-Line Recognition of Handwritten Mathematical Expressions Based on Stroke-Based Stochastic Context-Free Grammar
 #### GAN
 Generative Adversarial Networks. **GAN** [arXiv](https://arxiv.org/abs/1406.2661)
 
@@ -23,6 +28,11 @@ Conditional Generative Adversarial Nets. **CGAN** [arXiv](https://arxiv.org/abs/
 
 Adversarial Autoencoders. **AAE** [arXiv](https://arxiv.org/abs/1511.05644)
 
+[fzc]Progressive growing of GANs for improved quality, stability and variation. [arXiv](https://arxiv.org/abs/1710.10196)
+
+
+
+---------------
 ## For Report
 #### Attention Seq2Seq
 Sequence to Sequence Learning with Neural Networks. 
