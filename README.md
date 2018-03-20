@@ -5,6 +5,17 @@
 ### [Generative Adversarial Nets](https://github.com/YadiraF/GAN)
 
 ### Weekly Report (3.12-3.19)
+#### Reported
+[zpy]Learning to write stylized Chinese characters by Reading a hand of examples. [arXiv](https://arxiv.org/abs/1712.06424)
+
+[wcl]Recognition of Printed Mathematical Expressions Using Two-dimensional Stochastic Context-Free Grammars
+
+[wcl]On-Line Recognition of Handwritten Mathematical Expressions Based on Stroke-Based Stochastic Context-Free Grammar
+
+[fzc]Progressive growing of GANs for improved quality, stability and variation. [arXiv](https://arxiv.org/abs/1710.10196)
+
+### Weekly Report (3.20-3.27)
+
 #### Attention & Recognition
 MAttNet: Modular Attention Network for Referring Expression Comprehension [arXiv](https://arxiv.org/pdf/1801.08186.pdf)
 
@@ -16,11 +27,6 @@ Reading Scene Text in Deep Convolutional Sequences 
 
 Recursive Recurrent Nets with Attention Modeling for OCR in the Wild 
 
-[zpy]Learning to write stylized Chinese characters by Reading a hand of examples. [arXiv](https://arxiv.org/abs/1712.06424)
-
-[wcl]Recognition of Printed Mathematical Expressions Using Two-dimensional Stochastic Context-Free Grammars
-
-[wcl]On-Line Recognition of Handwritten Mathematical Expressions Based on Stroke-Based Stochastic Context-Free Grammar
 #### GAN
 Generative Adversarial Networks. **GAN** [arXiv](https://arxiv.org/abs/1406.2661)
 
@@ -28,7 +34,6 @@ Conditional Generative Adversarial Nets. **CGAN** [arXiv](https://arxiv.org/abs/
 
 Adversarial Autoencoders. **AAE** [arXiv](https://arxiv.org/abs/1511.05644)
 
-[fzc]Progressive growing of GANs for improved quality, stability and variation. [arXiv](https://arxiv.org/abs/1710.10196)
 
 
 
@@ -72,8 +77,6 @@ BLADE: Filter Learning for General Purpose Image Processing.
 Deep Image Prior.
 
 ### Character Recognition
-
-
 Robust Scene Text Recognition with Automatic Rectification
 
 An End-to-End Trainable Neural Network for Image-based Sequence Recognition and It's Application to Scene Text Recognition 
